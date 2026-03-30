@@ -226,8 +226,8 @@ Built with Indian users in mind, this app takes inspiration from:
 ## 📞 Connect
 
 - **GitHub:** [@RRWalia](https://github.com/RRWalia)  
-- **Portfolio:** Coming soon  
+- **LinkedIn:** https://www.linkedin.com/in/randeeprwalia/ 
 
----
+
 
 **Made with ❤️ for managing money smarter.**
